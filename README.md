@@ -1,8 +1,9 @@
 <div align="center">
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Chanhee)](https://git.io/typing-svg)
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Chanhee)](https://git.io/typing-svg)
+ 
+ 
 <br><br><br>
 
 <!-- Chanhee's profile -->
