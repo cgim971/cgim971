@@ -1,5 +1,5 @@
 <div align="center">
-
+<span style='background-color:#ffffff'>
 <br><br>
  
  ### 노력하면 멋진 결과가 돌아온다.  
@@ -41,3 +41,4 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
+                                                                                             </span>
