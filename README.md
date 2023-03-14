@@ -30,5 +30,11 @@
 </p>
                                                                                                    
 ### 사용해봤던 것들
-
+<p>
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript%20&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript%20&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  
+</p>
 
