@@ -50,4 +50,4 @@
  </p>
 </span>
 
-Click[here](https://google.com)                                                                                              
+[[개인] C++ 빙고 게임](https://google.com)                                                                                              
