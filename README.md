@@ -1,8 +1,10 @@
-<center> 🌟 노력하면 멋진 결과가 돌아온다. 🌟 </center>
+<div align="center">
 
-<br>
- <span style="color:black; background-color:fff5b1; font-size:130%"> 노력하는 프로그래머 김찬희입니다.</span>
+ <br><br>
 
+  ### 🌟 노력하면 멋진 결과가 돌아온다. 🌟
+  #### 노력하는 프로그래머 김찬희입니다.
+ 
   <br><br>
  *****
  현재는 졸업작품으로 진행중인 프로젝트에서 <b>메인 서버</b> 역할과 <b>서브 클라이언트</b> 발발을 맡고 있습니다.
