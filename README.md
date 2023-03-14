@@ -19,7 +19,7 @@
 ******
  <span style="color:Black">
 
-### 주로 사용하는 언어
+### 주로 사용하는 언어 :thought_balloon:
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/>
