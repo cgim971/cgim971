@@ -3,7 +3,8 @@
  <br><br>
 
   ### 🌟 노력하면 멋진 결과가 돌아온다. 🌟
-  #### 노력하는 프로그래머 
+ <br>
+ 노력하는 프로그래머 
  <span style="background-color:#fff5b1> 김찬희 <span style="background-color:000000>입니다.
 
   <br><br>
