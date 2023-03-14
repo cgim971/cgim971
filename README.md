@@ -1,11 +1,11 @@
 <h1 align="center"> 🌟안녕하세요. 김찬희입니다.🌟</h1>
-<h4 align="center"> 경기게임 마이스터고등학교에 재학하며 게임 개발자를 꿈꾸는 학생입니다. </h4>
+<h4 align="center"> 경기게임마이스터고등학교에 재학하며 게임 개발자를 꿈꾸는 학생입니다. </h4>
 <hr style="border: solid 2px black;">
 
 <br>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  // <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
