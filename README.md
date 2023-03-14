@@ -44,9 +44,9 @@
  <p>
    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
    <img src="https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
    <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
  </p>
 
  ### 📖 사용해봤던 것들 📖
