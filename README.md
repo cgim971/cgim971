@@ -5,16 +5,15 @@
 <br>
 
 <html>
-  
+  <head>
+    <style>
+      div {
+      column-count:2;
+    </style>
+    <title>column</title>
   </head>
-                                                                                                                                   
-                                                                                                                                   <body>
-    <div>
-        <div class="left"></div>
-        <div class="right"></div>
-    </div>
-</body>
-</html>
+  </html>
+
 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
