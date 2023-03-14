@@ -1,3 +1,4 @@
+<html>
 <style>
 .left-box {
   background: red;
@@ -12,3 +13,4 @@
 </style>
 <div class='left-box'>왼쪽</div>
 <div class='right-box'>오른쪽</div>
+</html>
