@@ -1,4 +1,4 @@
-{: .text-center} 🌟 노력하면 멋진 결과가 돌아온다. 🌟
+{: .text-center} : 🌟 노력하면 멋진 결과가 돌아온다. 🌟
  <span style="color:black; background-color:fff5b1; font-size:130%"> 노력하는 프로그래머 김찬희입니다.</span>
 
   <br><br>
