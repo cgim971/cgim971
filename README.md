@@ -57,6 +57,7 @@
    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
    <img src="https://img.shields.io/badge/DirectX-000000?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
  </p>
 
 </span>
