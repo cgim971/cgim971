@@ -33,7 +33,7 @@
   
 </p>
                                                                                                    
-### 사용해봤던 것들  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=language-svgrepo-com&logoColor=white"/>
+### 사용해봤던 것들 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TyeSript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
