@@ -2,7 +2,7 @@
 
 <br><br>
  
- ### :star: 노력하면 멋진 결과가 돌아온다.  :star:
+ ### 🌟 노력하면 멋진 결과가 돌아온다. 🌟
  #### 노력하는 프로그래머 김찬희입니다.
  
  <br><br><br>
@@ -19,13 +19,13 @@
 ******
  <span style="color:Black">
 
-### 주로 사용하는 언어 :thought_balloon:
+### 📚 주로 사용하는 언어 📚
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white"/>
 </p>
                                                                                                    
-### 자주 사용하는 툴
+### 🔧 자주 사용하는 툴 🔧
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
