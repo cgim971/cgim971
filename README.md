@@ -4,8 +4,6 @@
 
 <br>
 
- <div style="float:left; width:50%;>
-  <div>
  
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
@@ -18,10 +16,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgim971&show_icons=true&theme=transparent)
 
-  </div>
   
-  <div style="float:right; width:50%;>
-  <div>
-    hello
-  </div>
-
