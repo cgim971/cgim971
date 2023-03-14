@@ -4,7 +4,7 @@
 
 <br>
 
- <div style="float:left; width:50.0%;>
+ <div style="float:left; width:50%;>
   <div>
  
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
