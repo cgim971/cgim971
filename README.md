@@ -6,6 +6,7 @@
 
  <div style="float:left; width:50.0%;>
   <div>
+ 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
 - 🌱 I’m currently learning Unity 
@@ -17,10 +18,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgim971&show_icons=true&theme=transparent)
 
-<a target="_blank" align="right">
   </div>
   
-  <div style="float:left; width:50.0%;>
+  <div style="float:left; width:50%;>
   <div>
     hello
   </div>
