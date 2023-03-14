@@ -4,7 +4,6 @@
 
 <br>
 
-<html>
   <head>
     <style>
       div {
@@ -12,7 +11,6 @@
     </style>
     <title>column</title>
   </head>
-  </html>
 
 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
