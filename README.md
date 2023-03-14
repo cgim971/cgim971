@@ -1,10 +1,15 @@
 <div align="center">
 <br><br><br>
 ******   
+ 
+ 
  ## 노력하면 멋진 결과가 돌아온다.   
  ### 노력하는 프로그래머 김찬희입니다.
  
+ 
  <br><br><br>
+ 
+ 
 ******
 
 <!-- Chanhee's profile -->
