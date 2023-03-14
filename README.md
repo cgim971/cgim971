@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
-- 🌱 I’m currently learning Unity && C# Server
+- 🌱 I’m currently learning Unity 
 
 - 📝 I regularly write  <a href="https://www.notion.so/C-fe2b493cbe714ef9b56af689d47aad10?pvs=4" target="blank">algorithm notes</a>
 
