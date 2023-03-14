@@ -4,7 +4,11 @@
 
 <br>
 
- 
+<div style="display: flex; flex-direction: column;">
+ <div style="display: flex;">
+  
+  <div style="flex: 1;">
+  
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
 - 🌱 I’m currently learning Unity 
@@ -16,4 +20,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgim971&show_icons=true&theme=transparent)
 
+  </div>
   
+   <div style="flex: 1;">hi</div>
+</div>
+ </div>
