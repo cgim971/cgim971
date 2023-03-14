@@ -1,5 +1,5 @@
 <div align="center">
-<span style='background-color:#ffffff'>
+
 <br><br>
  
  ### 노력하면 멋진 결과가 돌아온다.  
@@ -17,7 +17,8 @@
  <br>
  
 ******
- 
+ <span style="color:Black">
+
 ### 주로 사용하는 언어
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white"/>
@@ -41,4 +42,4 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-                                                                                             </span>
+  </span>
