@@ -24,7 +24,14 @@
         <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/17728941/rpdev?tab=profile">
                 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-    
+    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/taehun7333">
+            <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/rtpgamedev">
+            <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCGs7NGHMStVY5k2-9NJUbDg">
+                <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun1001&show_icons=true&theme=transparent)
