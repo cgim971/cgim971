@@ -20,7 +20,7 @@
 
   </div>
   
-  <div style="float:left; width:50%;>
+  <div style="float:right; width:50%;>
   <div>
     hello
   </div>
