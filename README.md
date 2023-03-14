@@ -50,4 +50,4 @@
  </p>
 </span>
 
-[C++ 빙고 게임](https://github.com/cgim971/Bingo_Cpp)                                                                                             
+[[개]C++ 빙고 게임](https://github.com/cgim971/Bingo_Cpp)                                                                                             
