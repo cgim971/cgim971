@@ -52,3 +52,4 @@
 
 [[개인] C++ 빙고 게임](https://github.com/cgim971/Bingo_Cpp)      
 [[팀] 미소녀 연금술 시뮬레이션](https://github.com/KanghyuckMoon/Alchemy)
+[[팀] 훈민정음](https://github.com/cgim971/Chungbuk_GameJam)
