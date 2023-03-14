@@ -14,7 +14,8 @@
 
 - 📝 I regularly write  <a href="https://www.notion.so/C-fe2b493cbe714ef9b56af689d47aad10?pvs=4" target="blank">algorithm notes</a>
 
-- 📫 How to reach me **Cgim971@gmail.com**
+- 📫 How to reach me **cgim971@gmail.com**
+
 - <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me :handshake: </h3>
 
 <p align="center">
