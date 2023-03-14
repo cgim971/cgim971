@@ -1,7 +1,9 @@
 <div align="center">
 <br><br><br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Chanhee)](https://git.io/typing-svg)
+ ## 노력하면 멋진 결과가 돌아온다.
+ ### 노력하는 프로그래머 김찬희입니다.
+
  
  
 <br><br><br>
