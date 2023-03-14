@@ -4,9 +4,7 @@
 
 <br>
 
-<a target="_blank" align="center">
-  
-</a>
+
 
 - 🔭 I’m currently Attending <a href="https://ggm.hs.kr/" target="blank">Gyeonggi Game Meister High School</a>
 
@@ -22,4 +20,3 @@
 <a target="_blank" align="right">
   hello
 
-</a>
