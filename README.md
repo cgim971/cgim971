@@ -9,7 +9,7 @@
  *****
  
  
- <span style="font-size:100%">
+ <span style="color:red">
  현재는 졸업작품으로 진행중인 프로젝트에서 <b>[메인 서버]</b> 역할과 <b>[서브 클라이언트]</b> 개발을 맡고 있습니다.
  </span>
  
